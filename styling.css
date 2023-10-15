@@ -1,0 +1,32 @@
+#bm1 {
+    height: 45px;
+    width: 130px;
+    border-radius: 50px;
+    background-color: rgb(148, 148, 148);
+    color: white;
+    font-weight: 700;
+
+}
+
+#bm2 {
+    height: 45px;
+    width: 130px;
+    border-radius: 50px;
+    background-color: rgb(148, 148, 148);
+    color: white;
+    font-weight: 700;
+
+}
+
+#borrow{
+    border: 10px rgb(148, 148, 148) solid;
+
+}
+
+#sp{
+    border: 10px rgb(148, 148, 148) solid;
+    
+}
+
+
+
